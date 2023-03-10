@@ -1,7 +1,7 @@
 import InstallTo from '../InstallTo/InstallTo.jsx'
-import SearchBar from '../SearchBar/input/SearchBar.jsx'
+import SearchBar from '../SearchBar/SearchBar.jsx'
 
-const Global = () => {
+const Global2 = () => {
     return (
         <div>
             <SearchBar />
@@ -10,4 +10,4 @@ const Global = () => {
     )
 }
 
-export default Global
+export default Global2
